@@ -29,3 +29,8 @@ A personalized movie recommendation system built in R, using Netflix's movie met
 - Top recommended movies per user
 - Genre preference distribution
 - 50 most popular movies across users
+
+## Authors
+
+- Deishaun Colins (https://github.com/shaundcm)
+- M Deshna Shree (https://github.com/dsdeshna)
