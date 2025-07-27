@@ -1,0 +1,46 @@
+```plaintext
+   # R-specific ignores
+   .Rhistory
+   .RData
+   .Rproj.user/
+   *.Rproj
+   *.RData
+   *.Rds
+
+   # Datasets (exclude large CSV files)
+   *.csv
+   *.tsv
+   *.data
+
+   # Python-related (in case you use Python for visualization or other tasks)
+   __pycache__/
+   *.py[cod]
+   *.pyc
+   *.pyo
+   *.pyd
+
+   # IDE and editor files
+   .vscode/
+   .idea/
+   *.sublime-project
+   *.sublime-workspace
+   *.code-workspace
+
+   # OS-specific files
+   .DS_Store
+   Thumbs.db
+
+   # Miscellaneous
+   *.bak
+   *.swp
+   *~
+   *.tmp
+   temp/
+
+   # Sensitive files
+   .env
+   *.env
+   credentials.R
+   config.R
+   secrets.json
+   ```
